@@ -1,2 +1,2 @@
-# mygitproject
-this is my first git project
+# MyGitProject
+This Project was created to help Sanjay to learn use of the GIT.
